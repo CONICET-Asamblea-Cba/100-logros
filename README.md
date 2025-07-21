@@ -1,4 +1,6 @@
-# **Más de 100+ logros de la ciencia Argentina de los últimos 10 años**
+# **Más de 100 logros de la ciencia Argentina**
+# **(de los últimos 10 años)**
+
 
 1. [**En los últimos años se han fundado más de 50 empresas de base tecnológica**](https://www.conicet.gov.ar/wp-content/uploads/EBTs_ESP_PREVIEW.pdf) en coordinación con CONICET o fundadas/dirigidas por investigadores de CONICET. Estas empresas participan en diversas áreas de la economía nacional: petróleo, biotecnología, medicina de precisión y desarrollo de nuevos herbicidas e insecticidas ecológicos para la producción agrícola.  
 
