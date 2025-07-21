@@ -4,7 +4,8 @@
 body,
 .main-content,
 .page-content,
-.markdown-body p {
-  text-align: justify;
+.markdown-body p,
+.markdown-body li {
+  text-align: justify !important;
 }
 
