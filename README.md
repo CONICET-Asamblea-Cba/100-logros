@@ -1,5 +1,4 @@
-# **100+ logros de la ciencia Argentina**   
-## **(de los últimos 10 años)**
+# **Más de 100+ logros de la ciencia Argentina de los últimos 10 años**
 
 1. [**En los últimos años se han fundado más de 50 empresas de base tecnológica**](https://www.conicet.gov.ar/wp-content/uploads/EBTs_ESP_PREVIEW.pdf) en coordinación con CONICET o fundadas/dirigidas por investigadores de CONICET. Estas empresas participan en diversas áreas de la economía nacional: petróleo, biotecnología, medicina de precisión y desarrollo de nuevos herbicidas e insecticidas ecológicos para la producción agrícola.  
 
@@ -223,7 +222,7 @@
 110. [**Estudios sobre arte y cultura que buscan conocer producciones, circulación y consumo en Córdoba, y problematizar la forma en que percibimos y nos relacionamos con distintos productos de la industria cultural.**](https://editorial.unc.edu.ar/producto/celebrar/) Las investigaciones permiten incrementar el acervo cultural histórico, visibilizar las producciones y sus principales actores, comprender subjetividades y relaciones de poder y diseñar políticas públicas orientadas a democratizar el acceso a la cultura.    
 
 111. [**Método que permitió identificar más de 5000 galaxias detrás de la Vía Láctea**](https://iate.oac.uncor.edu/2021/03/04/investigadoras-desarrollaron-un-metodo-con-el-que-identificaron-mas-de-5000-nuevas-galaxias/), Investigadoras del Instituto de Astronomía Teórica y Experimental (IATE-CONICET/UNC) lideraron un proyecto internacional para buscar galaxias en la dirección del disco de la Vía Láctea.
-  
+
 112. [**AHIRA (Archivo Histórico de Revistas Argentinas)**](https://ahira.com.ar/sobre-el-proyecto/), colección digitalizada de revistas culturales y publicaciones periódicas argentinas (incluyendo ejemplares a partir del año 1830\) y estudios críticos relacionados, de acceso libre y gratuito, entre ellas, *Hortensia, Skorpio, Hora Cero, Satiricón, Primera Plana,* por nombrar solo algunas de las más célebres.  
        
      
