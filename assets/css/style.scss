@@ -1,5 +1,7 @@
 ---
 ---
-text-align: justify;
+.markdown-body {
+  text-align: justify;
+}
 @import "{{ site.theme }}";
 
