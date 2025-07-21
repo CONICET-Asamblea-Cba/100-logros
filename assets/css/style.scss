@@ -1,5 +1,11 @@
----
----
-text-align: justify;
 @import "{{ site.theme }}";
+
+.markdown-body,
+body,
+.main-content,
+.page-content,
+.markdown-body p,
+.markdown-body li {
+  text-align: justify !important;
+}
 
