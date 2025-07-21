@@ -1,5 +1,20 @@
 ---
 ---
-text-align: justify;
+
+// Headers
+$header-bg-color: #255078ff;
+$header-bg-color-secondary: #5d95cc;
+// Text
+$section-headings-color: #255078ff !default;
+
 @import "{{ site.theme }}";
+
+.markdown-body,
+body,
+.main-content,
+.page-content,
+.markdown-body p,
+.markdown-body li {
+  text-align: justify !important;
+}
 
