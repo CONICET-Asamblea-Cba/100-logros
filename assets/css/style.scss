@@ -3,18 +3,33 @@
 
 // Headers
 $header-bg-color: #255078ff;
-$header-bg-color-secondary: #5d95cc;
+$header-bg-color-secondary: #4d8fd1;
 // Text
 $section-headings-color: #255078ff !default;
 
+body,
+.btn {
+  font-family: 'Segoe UI';
+  //background-color: #dae5ec !important;
+  }
+
 @import "{{ site.theme }}";
 
-.markdown-body,
 body,
-.main-content,
-.page-content,
-.markdown-body p,
-.markdown-body li {
-  text-align: justify !important;
+.btn {
+  font-family: 'Segoe UI';
+  background-color: #dae5ec !important;
+  }
+
+
+img[alt="Agrarias"],
+img[alt="Ingeniería"],
+img[alt="Biología"],
+img[alt="Salud"],
+img[alt="Exactas"],
+img[alt="Tecnología"],
+img[alt="Sociales"] {
+  margin-right: 8px;
+  vertical-align: middle;
 }
 
