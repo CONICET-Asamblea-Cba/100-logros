@@ -6,18 +6,13 @@ $header-bg-color: #255078ff;
 $header-bg-color-secondary: #4d8fd1;
 // Text
 $section-headings-color: #255078ff !default;
-body,
-.btn {
-  font-family: 'Segoe UI';
-  background-color: #a7cce7 !important;
-  }
 
 @import "{{ site.theme }}";
 
 body,
 .btn {
   font-family: 'Segoe UI';
-  background-color: #a7cce7 !important;
+  background-color: #dae5ec !important;
   }
 
 
