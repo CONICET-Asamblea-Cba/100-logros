@@ -18,3 +18,14 @@ body,
   text-align: justify !important;
 }
 
+img[alt="Agrarias"],
+img[alt="Ingeniería"],
+img[alt="Biología"],
+img[alt="Salud"],
+img[alt="Exactas"],
+img[alt="Tecnología"],
+img[alt="Sociales"] {
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
