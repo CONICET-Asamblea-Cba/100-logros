@@ -1,5 +1,3 @@
-### **Más de 100 logros de la ciencia Argentina (de los últimos 10 años)**
-
 <p><img src="assets/img/tecnologia.png" alt="Tecnología" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/wp-content/uploads/EBTs_ESP_PREVIEW.pdf"><strong>En los últimos años se han fundado más de 50 empresas de base tecnológica</strong></a> en coordinación con CONICET o fundadas/dirigidas por investigadores de CONICET. Estas empresas participan en diversas áreas de la economía nacional: petróleo, biotecnología, medicina de precisión y desarrollo de nuevos herbicidas e insecticidas ecológicos para la producción agrícola.</p>
 
 <p><img src="assets/img/ingenieria.png" alt="Ingeniería" width="32" style="vertical-align:middle"> <a href="https://www.argentina.gob.ar/cnea/carem"><strong>Reactor Modular CAREM</strong></a>. El CAREM es un reactor modular pequeño, 100% argentino, diseñado por la CNEA y con un 85% de avance en su construcción, posicionado como uno de los cuatro desarrollos más avanzados de este tipo a nivel mundial, junto a proyectos de China, EEUU y Rusia.</p>
