@@ -7,10 +7,10 @@ $header-bg-color-secondary: #4d8fd1;
 // Text
 $section-headings-color: #255078ff !default;
 body,
-.markdown-body {
+.btn {
   font-family: 'Segoe UI';
-  background-color: #a7cce7;
-}
+  background-color: #a7cce7 !important;
+  }
 
 @import "{{ site.theme }}";
 
