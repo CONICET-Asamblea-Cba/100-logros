@@ -9,13 +9,9 @@ $section-headings-color: #255078ff !default;
 
 @import "{{ site.theme }}";
 
-.markdown-body,
 body,
-.main-content,
-.page-content,
-.markdown-body p,
-.markdown-body li {
-  text-align: justify !important;
+.markdown-body {
+  font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif;
 }
 
 img[alt="Agrarias"],
