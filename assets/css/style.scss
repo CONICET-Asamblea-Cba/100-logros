@@ -14,6 +14,11 @@ body,
 
 @import "{{ site.theme }}";
 
+body,
+.btn {
+  font-family: 'Segoe UI';
+  background-color: #a7cce7 !important;
+  }
 
 
 img[alt="Agrarias"],
