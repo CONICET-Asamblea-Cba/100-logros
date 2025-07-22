@@ -6,14 +6,15 @@ $header-bg-color: #255078ff;
 $header-bg-color-secondary: #4d8fd1;
 // Text
 $section-headings-color: #255078ff !default;
-
-@import "{{ site.theme }}";
-
 body,
 .markdown-body {
   font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif;
   background-color: #a7cce7;
 }
+
+@import "{{ site.theme }}";
+
+
 
 img[alt="Agrarias"],
 img[alt="Ingeniería"],
