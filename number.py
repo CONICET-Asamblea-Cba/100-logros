@@ -9,6 +9,10 @@ def replace_strong_tags_in_file(input_path):
     with open(input_path, "r", encoding="utf-8") as f:
         content = f.read()
 
+    # Step 1: Remove any existing numbers (e.g., <strong>1. Text => <strong>Text)
+    content = re.sub(r"<strong>\s*\d+\.\s*", "<strong>", content)
+
+    # Step 2: Add new sequential numbers
     count = 0
     def replacer(match):
         nonlocal count
