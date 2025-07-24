@@ -1,4 +1,17 @@
+
 <p><img src="assets/img/tecnologia.png" alt="Tecnología" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/wp-content/uploads/EBTs_ESP_PREVIEW.pdf"><strong>1. En los últimos años se han fundado más de 50 empresas de base tecnológica.</strong></a><br>En coordinación con CONICET o fundadas/dirigidas por investigadores de CONICET. Estas empresas participan en diversas áreas de la economía nacional: petróleo, biotecnología, medicina de precisión y desarrollo de nuevos herbicidas e insecticidas ecológicos para la producción agrícola.</p>
+
+<div>
+  <div style="display: flex; align-items: center;">
+    <img src="assets/img/tecnologia.png" alt="Tecnología" width="32" style="margin-right: 8px;">
+    <a href="https://www.conicet.gov.ar/wp-content/uploads/EBTs_ESP_PREVIEW.pdf" style="text-decoration: none; color: inherit;">
+      <strong>1. En los últimos años se han fundado más de 50 empresas de base tecnológica.</strong>
+    </a>
+  </div>
+  <p style="margin: 0; text-indent: 40px;">
+    En coordinación con CONICET o fundadas/dirigidas por investigadores de CONICET. Estas empresas participan en diversas áreas de la economía nacional: petróleo, biotecnología, medicina de precisión y desarrollo de nuevos herbicidas e insecticidas ecológicos para la producción agrícola.
+  </p>
+</div>
 
 <p><img src="assets/img/ingenieria.png" alt="Ingeniería" width="32" style="vertical-align:middle"> <a href="https://www.argentina.gob.ar/cnea/carem"><strong>2. Reactor Modular CAREM.</strong></a><br>El CAREM es un reactor modular pequeño, 100% argentino, diseñado por la CNEA y con un 85% de avance en su construcción, posicionado como uno de los cuatro desarrollos más avanzados de este tipo a nivel mundial, junto a proyectos de China, EEUU y Rusia.</p>
 
@@ -249,3 +262,7 @@ U n equipo de investigación del CONICET descubrió un nuevo blanco terapéutico
 <p><img src="assets/img/salud.png" alt="Salud" width="32" style="vertical-align:middle"> <a href="https://www.argentina.gob.ar/cnea/centro-argentino-de-protonterapia/como-actua-la-protonterapia"><strong>122. Centro de Protonterapia.</strong></a><br>El centro cuenta con un alto grado de avance, gracias al trabajo conjunto de CNEA, INVAP y la UBA. Es una tecnología de vanguardia para el tratamiento de tumores de difícil acceso que sólo poseen 20 países del mundo. Será el primer centro de su tipo en América latina.</p>
 
 <p><img src="assets/img/exactas.png" alt="Exactas" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/logran-clonar-por-primera-vez-embriones-de-cebra/"><strong>123. Logran clonar por primera vez embriones de cebra.</strong></a><br>El objetivo es preservar la información genética de especies silvestres que se encuentran amenazadas o en peligro de extinción. Un investigador del CONICET encabezó la investigación. </p>
+
+<p><img src="assets/img/tecnologia.png" alt="Tecnología" width="32" style="vertical-align:middle"> <a href="https://www.rionegro.com.ar/sociedad/proponen-convertir-el-orujo-de-manzana-que-hoy-se-descarta-en-rio-negro-en-un-ingrediente-alimentario/"><strong>124. Del descarte a la mesa: Investigadores buscan convertir el orujo de manzana en harinas no tradicionales.</strong></a><br> Se descartan toneladas de este subproducto que resulta una excelente fuente natural de fibra y contiene compuestos antioxidantes. La investigación corresponde al Centro de Investigaciones y Transferencias (CIT) de Río Negro, del Conicet y la Universidad Nacional de Río Negro (UNRN).	</p>
+
+<p><img src="assets/img/salud.png" alt="Salud" width="32" style="vertical-align:middle"> <a href="https://unciencia.unc.edu.ar/salud/cancer-crean-plataforma-de-busqueda-de-drogas-selectivas/"><strong>125. OncoPrecision: una startup que busca mejorar la efectividad de los tratamientos contra el cáncer.</strong></a><br>La empresa de base tecnológica cuenta con más de 20 investigadores y ex-investigadores de CONICET entre sus fundadores y personal, y desarrolla tests que permitirán elegir la terapia más adecuada para cada paciente oncológico.</p>
