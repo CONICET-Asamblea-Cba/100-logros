@@ -69,7 +69,7 @@
 <strong>9. Secuenciación del genoma completo de la uva Malbec.</strong>
     </a>
   </div>
-  <p style="margin: 0; margin-left: 40px;">Permitirá el desarrollo de cepas más adaptables y mejoras en la calidad de este varietal insignia.</p></div><br>
+  <p style="margin: 0; margin-left: 40px;">Permitirá el desarrollo de cepas más adaptables y mejoras en la calidad de este varietal insignia de Argentina.</p></div><br>
 
 <div>
   <div style="display: flex; align-items: center;">
