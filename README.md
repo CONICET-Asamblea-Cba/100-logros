@@ -1,5 +1,5 @@
 
-<p><img src="assets/img/tecnologia.png" alt="Tecnología" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/wp-content/uploads/EBTs_ESP_PREVIEW.pdf"><strong>1. En los últimos años se han fundado más de 50 empresas de base tecnológica.</strong></a><br>En coordinación con CONICET o fundadas/dirigidas por investigadores de CONICET. Estas empresas participan en diversas áreas de la economía nacional: petróleo, biotecnología, medicina de precisión y desarrollo de nuevos herbicidas e insecticidas ecológicos para la producción agrícola.</p>
+<p><img src="assets/img/tecnologia.png" alt="Tecnología" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/wp-content/uploads/EBTs_ESP_PREVIEW.pdf"><strong>1. En los últimos años se han fundado más de 50 empresas de base tecnológica.</strong></a><br>Estas funcionan en coordinación con CONICET o son fundadas/dirigidas por investigadores de CONICET. Estas empresas participan en diversas áreas de la economía nacional: petróleo, biotecnología, medicina de precisión y desarrollo de nuevos herbicidas e insecticidas ecológicos para la producción agrícola.</p>
 
 <div>
   <div style="display: flex; align-items: center;">
@@ -23,6 +23,18 @@
 <p><img src="assets/img/sociales.png" alt="Sociales" width="32" style="vertical-align:middle"> <a href="https://unr.edu.ar/ciencia-por-la-memoria/#:~:text=El%20trabajo%20de%20antrop%C3%B3logos%2C%20arque%C3%B3logos,la%20%C3%BAltima%20dictadura%20c%C3%ADvico%20militar"><strong>5. El aporte de la ciencia forense a la memoria, la verdad y la justicia.</strong></a><br>Investigaciones llevadas a cabo por el Equipo Argentino de Antropología Forense (EAAF), contribuyen con la identificación y restitución de cuerpos de personas desaparecidas, y con la recuperación de nietos nacidos en cautiverio y apropiados durante la última dictadura cívico-militar.</p>
 
 <p><img src="assets/img/ingenieria.png" alt="Ingeniería" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/litio-un-centro-del-conicet-sera-el-unico-en-argentina-en-producir-un-elemento-clave-para-la-fabricacion-de-baterias/"><strong>6. Litio: un centro del CONICET será el único en Argentina en producir un elemento clave para la fabricación de baterías.</strong></a><br>Es el flúor, un gas altamente reactivo capaz de secar la humedad del electrolito que les provee la carga eléctrica, garantizando su vida útil y condiciones de seguridad.</p>
+
+<div>
+  <div style="display: flex; align-items: center;">
+    <img src="assets/img/ingenieria.png" alt="Ingeniería" width="32" style="vertical-align:middle"> 
+    <a href="https://www.conicet.gov.ar/litio-un-centro-del-conicet-sera-el-unico-en-argentina-en-producir-un-elemento-clave-para-la-fabricacion-de-baterias/">
+        <strong>6. Litio: un centro del CONICET será el único en Argentina en producir un elemento clave para la fabricación de baterías.</strong>
+    </a>
+  </div>
+  <p style="margin: 0; margin-left: 40px;">
+Es el flúor, un gas altamente reactivo capaz de secar la humedad del electrolito que les provee la carga eléctrica, garantizando su vida útil y condiciones de seguridad.
+  </p>
+</div>
 
 <p><img src="assets/img/ingenieria.png" alt="Ingeniería" width="32" style="vertical-align:middle"> <a href="https://ceve.org.ar/ladrillos-bloques/"><strong>7. Ecoladrillos del CEVE.</strong></a><br>Investigadores del CEVE-CONICET desarrollaron ladrillos hechos de residuos plásticos, abaratando costos y reduciendo la contaminación, además de ser mejor aislante térmico que los ladrillos de barro.</p>
 
