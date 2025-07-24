@@ -40,7 +40,7 @@
   <p style="margin: 0; margin-left: 40px;">Investigaciones llevadas a cabo por el Equipo Argentino de Antropología Forense (EAAF), contribuyen con la identificación y restitución de cuerpos de personas desaparecidas, y con la recuperación de nietos nacidos en cautiverio y apropiados durante la última dictadura cívico-militar.</p></div>
 
 <div>
-  <div style="display: flex; align-items: center;">
+  <div style="display: flex; align-items: start;">
     <img src="assets/img/ingenieria.png" alt="Ingeniería" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/litio-un-centro-del-conicet-sera-el-unico-en-argentina-en-producir-un-elemento-clave-para-la-fabricacion-de-baterias/">
 <strong>6. Litio: un centro del CONICET será el único en Argentina en producir un elemento clave para la fabricación de baterías.</strong>
     </a>
