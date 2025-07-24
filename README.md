@@ -141,13 +141,15 @@
 
 <div>
   <div style="display: flex; align-items: center;">
-    <img src="assets/img/salud.png" alt="Salud" width="32" style="vertical-align:middle"> <a href="https://nexciencia.exactas.uba.ar/murcielagos-rabia-clasificacion-mapa-generos-argentina-diego-caraballo"><strong>21. Armado del mapa de la distribución de los géneros de murciélagos que impulsan la transmisión del virus de la rabia.</strong></a> 
- Se construyó el mapa de Argentina y América, el único continente en el mundo donde estos mamíferos son reservorios de la enfermedad.</p></div><br>
+    <img src="assets/img/salud.png" alt="Salud" width="32" style="vertical-align:middle"> <a href="https://nexciencia.exactas.uba.ar/murcielagos-rabia-clasificacion-mapa-generos-argentina-diego-caraballo"><strong>21. Armado del mapa de la distribución de los géneros de murciélagos que impulsan la transmisión del virus de la rabia.</strong></a>
+  </div> 
+  <p style="margin: 0; margin-left: 40px;">Se construyó el mapa de Argentina y América, el único continente en el mundo donde estos mamíferos son reservorios de la enfermedad.</p></div><br>
 
 <div>
   <div style="display: flex; align-items: center;">
     <img src="assets/img/ingenieria.png" alt="Ingeniería" width="32" style="vertical-align:middle"> <a href="https://nexciencia.exactas.uba.ar/desarrollan-metodo-detectar-huellas-dactilares-latentes-economico-no-destructivo-luz-polarizada-emanuel-chironi-claudio-iemmi"><strong>22. Desarrollo de un método económico que usa luz polarizada para revelar huellas dactilares.</strong></a> 
- Permite revelar huellas que no son visibles a simple vista, sin contaminar ni destruir el objeto que puede servir de prueba.</p></div><br>
+  </div>
+  <p style="margin: 0; margin-left: 40px;">Permite revelar huellas que no son visibles a simple vista, sin contaminar ni destruir el objeto que puede servir de prueba.</p></div><br>
 
 <div>
   <div style="display: flex; align-items: center;">
@@ -222,7 +224,8 @@
 <div>
   <div style="display: flex; align-items: center;">
     <img src="assets/img/tecnologia.png" alt="Tecnología" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/genomap-la-startup-reconocida-por-el-conicet-que-brinda-servicios-de-analisis-bioinformaticos-para-realizar-diagnosticos-geneticos-personalizados/"><strong>33. Investigadores de CONICET fundan una empresa bioinformática que realiza diagnósticos genéticos personalizados.</strong></a> 
- Un servicio clave para diseñar tratamientos más apropiados para cada paciente, lo que se llama medicina personalizada.</p></div><br>
+     </div>
+   <p style="margin: 0; margin-left: 40px;">Un servicio clave para diseñar tratamientos más apropiados para cada paciente, lo que se llama medicina personalizada.</p></div><br>
 
 <div>
   <div style="display: flex; align-items: center;">
@@ -275,8 +278,9 @@
 
 <div>
   <div style="display: flex; align-items: center;">
-    <img src="assets/img/salud.png" alt="Salud" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/revelan-un-nuevo-blanco-terapeutico-para-el-tratamiento-de-canceres-de-sangre/"><strong>41. Identificación del rol clave de la proteína galectina-1 (Gal-1) en la progresión de la mielofibrosis.</strong></a> 
- Se caracterizó el rol de esta proteína en algunos tipos de cáncer de células de la sangre, lo que habilitaría estrategias de tratamiento a futuro.</p></div><br>
+    <img src="assets/img/salud.png" alt="Salud" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/revelan-un-nuevo-blanco-terapeutico-para-el-tratamiento-de-canceres-de-sangre/"><strong>41. Identificación del rol clave de la proteína galectina-1 (Gal-1) en la progresión de la mielofibrosis.</strong>
+    </a></div> 
+    <p style="margin: 0; margin-left: 40px;">Se caracterizó el rol de esta proteína en algunos tipos de cáncer de células de la sangre, lo que habilitaría estrategias de tratamiento a futuro.</p></div><br>
 
 <div>
   <div style="display: flex; align-items: center;">
@@ -308,8 +312,8 @@
 
 <div>
   <div style="display: flex; align-items: center;">
-    <img src="assets/img/exactas.png" alt="Exactas" width="32" style="vertical-align:middle"> <a href="https://www.fcq.unc.edu.ar/metodo-computacional-desarrollado-en-fcq-obtuvo-el-primer-puesto-ante-proyectos-basados-en-ia-como-el-actual-premio-nobel-de-quimica/"><strong>46. Premio en competencia internacional al método computacional 2Vinardo que predice estructuras de complejos moleculares.</strong></a> 
- Predice las interacciones entre proteínas y fármacos, desarrollado con una combinación de métodos tradicionales e inteligencia artificial y que podría utilizarse para el diseño de nuevos medicamentos.</p></div><br>
+    <img src="assets/img/exactas.png" alt="Exactas" width="32" style="vertical-align:middle"> <a href="https://www.fcq.unc.edu.ar/metodo-computacional-desarrollado-en-fcq-obtuvo-el-primer-puesto-ante-proyectos-basados-en-ia-como-el-actual-premio-nobel-de-quimica/"><strong>46. Premio en competencia internacional al método computacional 2Vinardo que predice estructuras de complejos moleculares.</strong></a></div> 
+    <p style="margin: 0; margin-left: 40px;">Predice las interacciones entre proteínas y fármacos, desarrollado con una combinación de métodos tradicionales e inteligencia artificial y que podría utilizarse para el diseño de nuevos medicamentos.</p></div><br>
 
 <div>
   <div style="display: flex; align-items: center;">
@@ -453,8 +457,8 @@
 
 <div>
   <div style="display: flex; align-items: center;">
-    <img src="assets/img/salud.png" alt="Salud" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/identifican-un-potencial-blanco-terapeutico-para-el-tratamiento-del-dolor-cronico-en-la-vejez/"><strong>67. Nuevo blanco terapéutico para el tratamiento del dolor crónico.</strong></a>
-U n equipo de investigación del CONICET descubrió un nuevo blanco terapéutico para tratar el dolor crónico en adultos mayores a partir de la inhibición de una proteína que controla la excitabilidad de las neuronas asociadas con esta afección. El tratamiento es más eficaz que los fármacos antiinflamatorios tradicionales.</p></div><br>
+    <img src="assets/img/salud.png" alt="Salud" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/identifican-un-potencial-blanco-terapeutico-para-el-tratamiento-del-dolor-cronico-en-la-vejez/"><strong>67. Nuevo blanco terapéutico para el tratamiento del dolor crónico.</strong></a></div> 
+    <p style="margin: 0; margin-left: 40px;">Un equipo de investigación del CONICET descubrió un nuevo blanco terapéutico para tratar el dolor crónico en adultos mayores a partir de la inhibición de una proteína que controla la excitabilidad de las neuronas asociadas con esta afección. El tratamiento es más eficaz que los fármacos antiinflamatorios tradicionales.</p></div><br>
 
 <div>
   <div style="display: flex; align-items: center;">
