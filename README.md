@@ -921,16 +921,8 @@
 
 <div>
   <div style="display: flex; align-items: start;">
-    <img src="assets/img/salud.png" alt="Salud" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/equipo-del-conicet-trabaja-en-el-desarrollo-de-una-vacuna-preventiva-contra-la-enfermedad-de-chagas/">
-<strong>117. Equipo del CONICET trabaja en el desarrollo de una vacuna preventiva contra la enfermedad de Chagas.</strong>
-    </a>
-  </div>
-  <p style="margin: 0; margin-left: 40px;">Se encuentra en etapa preclínica y será de administración nasal. En los ensayos in vivo mostró resultados positivos en la disminución de la miocarditis, la inflamación y las alteraciones electrocardiográficas provocadas por esta patología en su fase crónica.</p></div><br>
-
-<div>
-  <div style="display: flex; align-items: start;">
     <img src="assets/img/salud.png" alt="Salud" width="32" style="vertical-align:middle"> <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c02832">
-<strong>118. Desarrollo de modelo de simulación del riesgo de contagio de enfermedades respiratorias en ambientes cerrados.</strong>
+<strong>117. Desarrollo de modelo de simulación del riesgo de contagio de enfermedades respiratorias en ambientes cerrados.</strong>
     </a>
   </div>
   <p style="margin: 0; margin-left: 40px;">Investigadores del CONICET formaron parte del equipo internacional que desarrolló un modelo para evaluar el riesgo de contagio en ambientes compartidos. El trabajo fue premiado como uno de los mejores estudios del año 2022.</p></div><br>
@@ -938,7 +930,7 @@
 <div>
   <div style="display: flex; align-items: start;">
     <img src="assets/img/tecnologia.png" alt="Tecnología" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/cientificos-obtienen-financiamiento-para-un-nuevo-proyecto-con-la-industria-y-la-unsam/">
-<strong>119. Científicos de CONICET obtienen financiamiento para proyecto de producción de anticuerpos monoclonales.</strong>
+<strong>118. Científicos de CONICET obtienen financiamiento para proyecto de producción de anticuerpos monoclonales.</strong>
     </a>
   </div>
   <p style="margin: 0; margin-left: 40px;">Inversiones públicas y privadas por más de $4 millones para optimizar procesos productivos de anticuerpos monoclonales desde el Centro de Rediseño e Ingeniería en Proteínas (CRIP) del IIB-INTECH.</p></div><br>
@@ -946,7 +938,7 @@
 <div>
   <div style="display: flex; align-items: start;">
     <img src="assets/img/salud.png" alt="Salud" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/centro-de-medicina-comparada-unico-centro-publico-con-certificacion-de-buenas-practicas-de-laboratorio/">
-<strong>120. Centro de medicina comparada CONICET-UNL.</strong>
+<strong>119. Centro de medicina comparada CONICET-UNL.</strong>
     </a>
   </div>
   <p style="margin: 0; margin-left: 40px;">Generación de una plataforma tecnológica de alta complejidad con equipamiento de frontera, compuesta por profesionales de diferente formación con los que cuenta y que incluye médicos veterinarios, bioquímicos, licenciados en biotecnología, en biodiversidad, en química, entre otros.</p></div><br>
@@ -954,7 +946,7 @@
 <div>
   <div style="display: flex; align-items: start;">
     <img src="assets/img/exactas.png" alt="Exactas" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/especialistas-del-conicet-descifraron-el-genoma-de-la-yerba-mate/">
-<strong>121. Especialistas del CONICET descifraron el genoma de la yerba mate.</strong>
+<strong>120. Especialistas del CONICET descifraron el genoma de la yerba mate.</strong>
     </a>
   </div>
   <p style="margin: 0; margin-left: 40px;">El estudio internacional, publicado en la revista científica eLife, brinda una herramienta para el mejoramiento genético de esa planta y su aprovechamiento en la industria alimentaria y farmacéutica.</p></div><br>
@@ -962,7 +954,7 @@
 <div>
   <div style="display: flex; align-items: start;">
     <img src="assets/img/salud.png" alt="Salud" width="32" style="vertical-align:middle"> <a href="https://www.argentina.gob.ar/cnea/centro-argentino-de-protonterapia/como-actua-la-protonterapia">
-<strong>122. Centro de Protonterapia.</strong>
+<strong>121. Centro de Protonterapia.</strong>
     </a>
   </div>
   <p style="margin: 0; margin-left: 40px;">El centro cuenta con un alto grado de avance, gracias al trabajo conjunto de CNEA, INVAP y la UBA. Es una tecnología de vanguardia para el tratamiento de tumores de difícil acceso que sólo poseen 20 países del mundo. Será el primer centro de su tipo en América latina.</p></div><br>
@@ -970,7 +962,7 @@
 <div>
   <div style="display: flex; align-items: start;">
     <img src="assets/img/exactas.png" alt="Exactas" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/logran-clonar-por-primera-vez-embriones-de-cebra/">
-<strong>123. Logran clonar por primera vez embriones de cebra.</strong>
+<strong>122. Logran clonar por primera vez embriones de cebra.</strong>
     </a>
   </div>
   <p style="margin: 0; margin-left: 40px;">El objetivo es preservar la información genética de especies silvestres que se encuentran amenazadas o en peligro de extinción. Un investigador del CONICET encabezó la investigación. </p></div><br>
@@ -978,7 +970,7 @@
 <div>
   <div style="display: flex; align-items: start;">
     <img src="assets/img/tecnologia.png" alt="Tecnología" width="32" style="vertical-align:middle"> <a href="https://www.rionegro.com.ar/sociedad/proponen-convertir-el-orujo-de-manzana-que-hoy-se-descarta-en-rio-negro-en-un-ingrediente-alimentario/">
-<strong>124. Del descarte a la mesa: Investigadores buscan convertir el orujo de manzana en harinas no tradicionales.</strong>
+<strong>123. Del descarte a la mesa: Investigadores buscan convertir el orujo de manzana en harinas no tradicionales.</strong>
     </a>
   </div>
   <p style="margin: 0; margin-left: 40px;"> Se descartan toneladas de este subproducto que resulta una excelente fuente natural de fibra y contiene compuestos antioxidantes. La investigación corresponde al Centro de Investigaciones y Transferencias (CIT) de Río Negro, del Conicet y la Universidad Nacional de Río Negro (UNRN).	</p></div><br>
@@ -986,10 +978,17 @@
 <div>
   <div style="display: flex; align-items: start;">
     <img src="assets/img/salud.png" alt="Salud" width="32" style="vertical-align:middle"> <a href="https://unciencia.unc.edu.ar/salud/cancer-crean-plataforma-de-busqueda-de-drogas-selectivas/">
-<strong>125. OncoPrecision: una startup que busca mejorar la efectividad de los tratamientos contra el cáncer.</strong>
+<strong>124. OncoPrecision: una startup que busca mejorar la efectividad de los tratamientos contra el cáncer.</strong>
     </a>
   </div>
   <p style="margin: 0; margin-left: 40px;">La empresa de base tecnológica cuenta con más de 20 investigadores y ex-investigadores de CONICET entre sus fundadores y personal, y desarrolla tests que permitirán elegir la terapia más adecuada para cada paciente oncológico.</p></div><br>
+
+
+<div>
+  <div style="display: flex; align-items: start;">
+    <img src="assets/img/exactas.png" alt="Exactas" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/descubren-un-tetrapodo-basal-gigante-que-desafia-las-hipotesis-vigentes-sobre-la-evolucion-temprana-de-los-primeros-vertebrados-terrestres/">
+<strong>125. Descubren un tetrápodo basal gigante que desafía las hipótesis vigentes sobre la evolución temprana de los primeros vertebrados terrestres</strong></a></div> 
+    <p style="margin: 0; margin-left: 40px;">Predice las interacciones entre proteínas y fármacos, desarrollado con una combinación de métodos tradicionales e inteligencia artificial y que podría utilizarse para el diseño de nuevos medicamentos.</p></div><br>
 
 <div>
   <div style="display: flex; align-items: start;">
@@ -998,3 +997,29 @@
     </a>
   </div>
   <p style="margin: 0; margin-left: 40px;">Investigadores de CONICET forman parte de un consorcio internacional que realizó un estudio comparativo y arrojó coincidencias entre los marcadores que presentan personas provenientes de Argentina y Chile y los hallados en comunidades europeas</p></div><br>
+
+<div>
+  <div style="display: flex; align-items: start;">
+    <img src="assets/img/exactas.png" alt="Exactas" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/descubren-un-tetrapodo-basal-gigante-que-desafia-las-hipotesis-vigentes-sobre-la-evolucion-temprana-de-los-primeros-vertebrados-terrestres/">
+<strong>127. Descubren un tetrápodo basal gigante que desafía las hipótesis vigentes sobre la evolución temprana de los primeros vertebrados terrestres</strong></a></div> 
+    <p style="margin: 0; margin-left: 40px;">El hallazgo de la nueva especie en Namibia, que ilustrará la tapa del número del 18 de julio de Nature, una de las revistas científicas más prestigiosas a nivel mundial. La investigación fue liderada por una investigadora del CONICET y contó con el apoyo financiero de la National Geographic Society.</p></div><br>
+
+<div>
+  <div style="display: flex; align-items: start;">
+    <img src="assets/img/salud.png" alt="Salud" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/equipo-del-conicet-trabaja-en-el-desarrollo-de-una-vacuna-preventiva-contra-la-enfermedad-de-chagas/">
+<strong>128. Equipo del CONICET trabaja en el desarrollo de una vacuna preventiva contra la enfermedad de Chagas.</strong>
+    </a>
+  </div>
+  <p style="margin: 0; margin-left: 40px;">Se encuentra en etapa preclínica y será de administración nasal. En los ensayos in vivo mostró resultados positivos en la disminución de la miocarditis, la inflamación y las alteraciones electrocardiográficas provocadas por esta patología en su fase crónica.</p></div><br>
+
+<div>
+  <div style="display: flex; align-items: start;">
+    <img src="assets/img/exactas.png" alt="Exactas" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/los-estromatolitos-mas-altos-del-mundo/">
+<strong>129. Los estromatolitos más altos del mundo</strong></a></div> 
+    <p style="margin: 0; margin-left: 40px;">Un grupo de investigación reportó el hallazgo de estas estructuras en laguna Socompa, a más de 3.500 metros sobre el nivel del mar. Su análisis podría ayudar a conocer cómo fue la Tierra en sus orígenes y saber si existe vida en otros planetas.</p></div><br>
+
+<div>
+  <div style="display: flex; align-items: start;">
+    <img src="assets/img/exactas.png" alt="Exactas" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/un-exhaustivo-estudio-sobre-los-perezosos-gigantes-realizado-por-cientificos-del-conicet-llego-a-la-revista-science/">
+<strong>130. Un exhaustivo estudio sobre los perezosos gigantes realizado por científicos del CONICET llegó a la revista Science</strong></a></div> 
+    <p style="margin: 0; margin-left: 40px;">Reconstruyeron un mapa de su historia en los últimos 35 millones de años.</p></div><br>
