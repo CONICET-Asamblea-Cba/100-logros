@@ -990,3 +990,11 @@
     </a>
   </div>
   <p style="margin: 0; margin-left: 40px;">La empresa de base tecnológica cuenta con más de 20 investigadores y ex-investigadores de CONICET entre sus fundadores y personal, y desarrolla tests que permitirán elegir la terapia más adecuada para cada paciente oncológico.</p></div><br>
+
+<div>
+  <div style="display: flex; align-items: start;">
+    <img src="assets/img/salud.png" alt="Salud" width="32" style="vertical-align:middle"> <a href="https://laplata.conicet.gov.ar/analizan-por-primera-vez-el-genoma-completo-de-poblaciones-del-cono-sur-para-detectar-las-marcas-geneticas-asociadas-a-la-enfermedad-de-alzheimer/">
+<strong>126. Analizan por primera vez el genoma completo de poblaciones del Cono Sur para detectar las marcas genéticas asociadas a la enfermedad de Alzheimer.</strong>
+    </a>
+  </div>
+  <p style="margin: 0; margin-left: 40px;">Investigadores de CONICET forman parte de un consorcio internacional que realizó un estudio comparativo y arrojó coincidencias entre los marcadores que presentan personas provenientes de Argentina y Chile y los hallados en comunidades europeas</p></div><br>
