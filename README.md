@@ -1023,3 +1023,11 @@
     <img src="assets/img/exactas.png" alt="Exactas" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/un-exhaustivo-estudio-sobre-los-perezosos-gigantes-realizado-por-cientificos-del-conicet-llego-a-la-revista-science/">
 <strong>130. Un exhaustivo estudio sobre los perezosos gigantes realizado por científicos del CONICET llegó a la revista Science</strong></a></div> 
     <p style="margin: 0; margin-left: 40px;">Reconstruyeron un mapa de su historia en los últimos 35 millones de años.</p></div><br>
+
+<div>
+  <div style="display: flex; align-items: start;">
+    <img src="assets/img/agrarias.png" alt="Agrarias" width="32" style="vertical-align:middle"> <a href="https://www.todomani.com.ar/seleccionan-nuevas-variedades-de-mani-mediante-el-uso-de-marcadores-moleculares/">
+<strong>131. Detección  de las regiones genómicas  asociadas a la resistencia al carbón del maní.</strong>
+    </a>
+  </div>
+  <p style="margin: 0; margin-left: 40px;">Mediante este descubrimiento se desarrollaron marcadores moleculares para ese carácter, actualmente usados actualmente en programas de mejoramiento de variedades de maní.</p></div><br>
