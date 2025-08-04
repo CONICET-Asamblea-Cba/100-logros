@@ -1026,8 +1026,65 @@
 
 <div>
   <div style="display: flex; align-items: start;">
+    <img src="assets/img/sociales.png" alt="Sociales" width="32" style="vertical-align:middle"> <a href="https://www.encuestamigrante.ar/que-es-la-enma/">
+<strong>131. La Encuesta Nacional Migrante de Argentina (ENMA), primer relevamiento periódico de alcance nacional dirigido a la población migrante</strong>
+    </a>
+  </div>
+  <p style="margin: 0; margin-left: 40px;">Iniciativa surgida en el marco del Eje Migración y Asilo de la Red de Investigaciones en Derechos Humanos del CONICET, en articulación con organizaciones de la sociedad civil. Produce información periódica sobre las condiciones de vida y acceso a derechos de las personas migrantes, solicitantes de asilo y personas refugiadas en la Argentina.</p></div><br>
+
+<div>
+  <div style="display: flex; align-items: start;">
     <img src="assets/img/agrarias.png" alt="Agrarias" width="32" style="vertical-align:middle"> <a href="https://www.todomani.com.ar/seleccionan-nuevas-variedades-de-mani-mediante-el-uso-de-marcadores-moleculares/">
-<strong>131. Detección  de las regiones genómicas  asociadas a la resistencia al carbón del maní.</strong>
+<strong>132. Detección  de las regiones genómicas  asociadas a la resistencia al carbón del maní.</strong>
     </a>
   </div>
   <p style="margin: 0; margin-left: 40px;">Mediante este descubrimiento se desarrollaron marcadores moleculares para ese carácter, actualmente usados actualmente en programas de mejoramiento de variedades de maní.</p></div><br>
+
+<div>
+  <div style="display: flex; align-items: start;">
+    <img src="assets/img/sociales.png" alt="Sociales" width="32" style="vertical-align:middle"> <a href="https://ela.org.ar/novedades/derecho-al-cuidado-presentamos-un-amicus-ante-a-la-corte-idh/">
+<strong>133. Investigadores del CONICET participaron en la redacción de un Amicus Curiae presentado ante la Corte Interamericana de Derechos Humanos ”</strong>
+    </a>
+  </div>
+  <p style="margin: 0; margin-left: 40px;"> El texto hace referencia a “El contenido y el alcance del derecho al cuidado y su interrelación con otros derechos, realizado con organizaciones feminista de todo el continente. El documento contiene argumentos que sustentan el encuadre normativo del derecho al cuidado en el sistema interamericano de protección de derechos humanos  .</p></div><br>
+
+<div>
+  <div style="display: flex; align-items: start;">
+    <img src="assets/img/agrarias.png" alt="Agrarias" width="32" style="vertical-align:middle"> <a href="https://intech.conicet.gov.ar/bovinos-descubren-un-nuevo-modo-de-transmision-de-una-enfermedad-reproductiva/">
+<strong>134. Bovinos: descubren un nuevo modo de transmisión de una enfermedad reproductiva.</strong>
+    </a>
+  </div>
+  <p style="margin: 0; margin-left: 40px;">La tritrichomonosis es una enfermedad de bovinos que produce grandes pérdidas económicas para el país y durante 100 años se la consideró exclusivamente de transmisión venérea. Este hallazgo cambia el paradigma del control sanitario reproductivo ganadero.</p></div><br>
+
+<div>
+  <div style="display: flex; align-items: start;">
+    <img src="assets/img/sociales.png" alt="Sociales" width="32" style="vertical-align:middle"> <a href="https://www.lanacion.com.ar/cultura/antenas-de-lo-nuevo-ya-esta-disponible-en-la-red-el-archivo-de-revistas-culturales-de-cordoba-nid14072025/">
+<strong>135. Archivo de Revistas Culturales de Córdoba.”</strong>
+    </a>
+  </div>
+  <p style="margin: 0; margin-left: 40px;"> Plataforma digital de revistas culturales editadas en la provincia de Córdoba entre 1920 y 2025, de acceso libre (algunas paradigmáticas como Cristal, Laurel, Facundo, Pasado y Presente, La Intemperie, entre otras). Las colecciones recuperadas se acompañan de entrevistas a los editores, videos de ejemplares físicos, documentos complementarios y estudios críticos. </p></div><br>
+
+<div>
+  <div style="display: flex; align-items: start;">
+    <img src="assets/img/agrarias.png" alt="Agrarias" width="32" style="vertical-align:middle"> <a href="https://thermoreleaf.com.ar/">
+<strong>136. Científicos del Conicet y la UNMdP fundaron Thermoreleaf, una empresa de base tecnológica que hace cultivos resistentes a altas temperaturas.</strong>
+    </a>
+  </div>
+  <p style="margin: 0; margin-left: 40px;">Thermoreleaf ofrece una plataforma que combina el descubrimiento de Biomoléculas protectoras y la edición génica mediante tecnología CRISPR-Cas9 para obtener cultivos resistentes al calor extremo, un problema que ocasiona enormes pérdidas de rendimiento a nivel nacional y global.</p></div><br>
+
+<div>
+  <div style="display: flex; align-items: start;">
+    <img src="assets/img/sociales.png" alt="Sociales" width="32" style="vertical-align:middle"> <a href="https://www.mipex.eu/what-is-mipex">
+<strong>137. Investigadoras de CONICET fueron convocadas a participar en la elaboración del “Migrant Integration Policy Index (MIPEX)””</strong>
+    </a>
+  </div>
+  <p style="margin: 0; margin-left: 40px;"> Esta herramienta permitirá evaluar las políticas de integración de inmigrantes en países de los cinco continentes, incluída Argentina.  </p></div><br>
+
+<div>
+  <div style="display: flex; align-items: start;">
+    <img src="assets/img/agrarias.png" alt="Agrarias" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/desarrollan-dispositivos-que-imitan-suelos-agricolas-para-estudiar-la-accion-de-bacterias-promotoras-del-crecimiento-vegetal/">
+<strong>138. Desarrollan dispositivos que imitan suelos agrícolas para estudiar la acción de bacterias promotoras del crecimiento vegetal.</strong>
+    </a>
+  </div>
+  <p style="margin: 0; margin-left: 40px;">   Equipos del CONICET y de Chile diseñaron micro laboratorios en chips que permiten entender mejor el funcionamiento de los microorganismos que posibilitan que las leguminosas fijen nitrógeno del ambiente. Este conocimiento podría servir para optimizar el desarrollo y la inoculación de biofertilizantes.</p></div><br>
+
