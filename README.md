@@ -1097,5 +1097,16 @@
 </div><br>
 
 
+<div>
+  <div style="display: flex; align-items: start;">
+    <img src="assets/img/ingenieria.png" alt="Ingeniería" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/una-alianza-academico-productiva-para-brindar-soluciones-a-la-industria-del-gas-y-el-petroleo/">
+<strong>140. Una alianza académico-productiva para brindar soluciones a la industria del gas y el petróleo.</strong>
+    </a>
+  </div>
+  <p style="margin: 0; margin-left: 40px;">Equipos del CONICET y empresas del sector gasífero-petrolero participan de un espacio de encuentro e intercambio para promover y articular la transferencia de conocimientos y capacidades de la academia al sector productivo.</p></div><br>
+
+
+
+
 
        
