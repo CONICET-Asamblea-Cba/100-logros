@@ -1090,7 +1090,7 @@
 
 <div>
   <div style="display: flex; align-items: start;">
-    <img src="assets/img/exactas.png" alt="Exactas" width="32" style="vertical-align:middle"> <a href="ttps://www.conicet.gov.ar/transmision-en-vivo-a-3-900-metros-de-profundidad-en-colaboracion-con-el-schmidt-ocean-institute-investigadores-del-conicet-realizan-la-expedicion-underwater-oases-of-mar-del-plata-canyon/">
+    <img src="assets/img/exactas.png" alt="Exactas" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/transmision-en-vivo-a-3-900-metros-de-profundidad-en-colaboracion-con-el-schmidt-ocean-institute-investigadores-del-conicet-realizan-la-expedicion-underwater-oases-of-mar-del-plata-canyon/">
 <strong>139. Transmisión en vivo del fondo marino argentino a 3.900 metros de profundidad.</strong></a></div> 
     <p style="margin: 0; margin-left: 40px;">En colaboración con el *Schmidt Ocean Institute* (una organización científica privada sin fines de lucro), 26 investigadores del CONICET realizan la expedición “Talud Continental IV”. La cuarta etapa de esta campaña explora el cañón submarino Mar del Plata, una región del Atlántico sur que tiene alta biodiversidad y ha sido escasamente estudiada. Este proyecto resultó elegido entre decenas que se presentaron a una convocatoria internacional. [Se transmite en vivo por YouTube y ha logrado audiencias en vivo de más de 80 mil personas](https://www.youtube.com/@SchmidtOcean).</p></div><br>
 
