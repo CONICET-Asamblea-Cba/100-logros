@@ -24,3 +24,60 @@ img[alt="Sociales"] {
   vertical-align: middle;
 }
 
+/* Site header and layout improvements */
+.site-header {
+  background: linear-gradient(90deg, $header-bg-color, $header-bg-color-secondary);
+  color: #fff;
+  padding: 20px 12px;
+  border-bottom: 3px solid darken($header-bg-color, 6%);
+}
+.site-header-inner {
+  max-width: 980px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.logo {
+  max-height: 100px;
+  width: auto;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  background: #fff;
+  padding: 8px;
+}
+.site-title-wrap h1 {
+  margin: 0;
+  font-size: 1.6rem;
+  line-height: 1.1;
+  color: #fff;
+}
+.tagline {
+  margin: 6px 0 0;
+  opacity: 0.95;
+  color: rgba(255,255,255,0.95);
+  font-size: 0.95rem;
+}
+
+/* Content container for better readability on wider screens */
+.content, .site-content, .readme-content {
+  max-width: 980px;
+  margin: 18px auto;
+  padding: 0 16px;
+}
+
+/* Style for small category icons to match logo aesthetic */
+.category-icon {
+  display: inline-block;
+  border-radius: 50%;
+  padding: 6px;
+  background: linear-gradient(180deg, lighten($header-bg-color-secondary, 8%), $header-bg-color);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+@media (max-width: 640px) {
+  .site-header-inner { flex-direction: column; align-items: center; text-align: center; }
+  .logo { max-height: 80px; }
+  .site-title-wrap h1 { font-size: 1.2rem; }
+}
+
