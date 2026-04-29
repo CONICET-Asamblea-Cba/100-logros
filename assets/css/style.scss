@@ -26,36 +26,37 @@ img[alt="Sociales"] {
 
 /* Site header and layout improvements */
 .site-header {
-  background: linear-gradient(90deg, $header-bg-color, $header-bg-color-secondary);
-  color: #fff;
-  padding: 20px 12px;
-  border-bottom: 3px solid darken($header-bg-color, 6%);
+  background: #ffffff;
+  color: #222;
+  padding: 8px 12px;
+  border-bottom: 1px solid #e6e6e6;
 }
 .site-header-inner {
-  max-width: 980px;
+  max-width: 1100px;
   margin: 0 auto;
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 16px;
 }
 .logo {
-  max-height: 100px;
+  max-height: 120px;
   width: auto;
-  border-radius: 8px;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
-  background: #fff;
-  padding: 8px;
+  border-radius: 0;
+  box-shadow: none;
+  background: transparent;
+  padding: 0;
 }
 .site-title-wrap h1 {
   margin: 0;
   font-size: 1.6rem;
   line-height: 1.1;
-  color: #fff;
+  color: #255078ff;
 }
 .tagline {
   margin: 6px 0 0;
   opacity: 0.95;
-  color: rgba(255,255,255,0.95);
+  color: rgba(0,0,0,0.7);
   font-size: 0.95rem;
 }
 
@@ -73,6 +74,17 @@ img[alt="Sociales"] {
   padding: 6px;
   background: linear-gradient(180deg, lighten($header-bg-color-secondary, 8%), $header-bg-color);
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+/* Header image sizing when using the full-width header image */
+.header-image { width: 100%; max-width: 1100px; height: auto; display: block; }
+
+/* Hide possible "View on GitHub" buttons injected by themes or widgets */
+a[href*="github.com"][class*="button"],
+.github-button,
+.view-on-github,
+a[title*="View on GitHub"] {
+  display: none !important;
 }
 
 @media (max-width: 640px) {

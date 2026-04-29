@@ -1,12 +1,11 @@
-<header class="site-header">
+
+<header class="site-header site-header--white">
   <div class="site-header-inner">
-    <img src="assets/img/100logros.png" class="logo" alt="100+ logros CONICET" width="320">
-    <div class="site-title-wrap">
-      <h1>100+ logros científicos del CONICET</h1>
-      <p class="tagline">Resumen de investigaciones y desarrollos argentinos</p>
-    </div>
+    <img src="assets/img/100logros_header.png" class="logo header-image" alt="100+ logros CONICET header">
   </div>
 </header>
+
+<div>
 
 <div class="readme-content">
   <div style="display: flex; align-items: start;">
