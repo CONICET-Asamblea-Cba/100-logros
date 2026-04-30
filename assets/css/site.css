@@ -2,7 +2,7 @@
 :root{--max-width:1100px;--muted:#666}
 *{box-sizing:border-box}
 body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:0;color:#222;background:#fff}
-.main-header{background:#fff;border-bottom:1px solid #eee;padding:0 12px}
+.main-header{background:#fff;border-bottom:1px solid #eee;padding:0 12px;position:fixed;top:0;left:0;width:100%;z-index:1000}
 .header-inner{max-width:var(--max-width);margin:0 auto;height:300px;display:flex;align-items:center;justify-content:center;overflow:hidden}
 .header-image{display:block;width:auto;max-width:100%;max-height:300px;height:auto;margin:0 auto;object-fit:contain}
 .container{max-width:980px;margin:28px auto;padding:0 16px}
@@ -11,9 +11,13 @@ p{line-height:1.5;color:var(--muted)}
 code{background:#f3f3f3;padding:2px 6px;border-radius:4px}
 .site-footer{border-top:1px solid #eee;color:var(--muted);padding:12px 0;font-size:0.9rem}
 
+/* Add top padding to body so fixed header doesn't overlap content */
+body{padding-top:300px}
+
 @media (max-width:640px){
 	.container{margin:18px auto;padding:0 12px}
 	.main-header{padding:0 8px}
 	.header-inner{height:180px}
 	.header-image{max-height:180px}
+	body{padding-top:180px}
 }

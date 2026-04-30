@@ -1,6 +1,4 @@
-
-<img src="assets/img/100logros.png" style="vertical-align:middle">
-
+ 
 <div>
 
   <div style="display: flex; align-items: start;">
