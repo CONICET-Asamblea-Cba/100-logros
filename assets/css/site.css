@@ -1,15 +1,24 @@
 /* Minimal site styles for static index.html */
-:root{--max-width:1100px;--muted:#666}
+:root{--max-width:1100px;--muted:#666;--brand-blue:#eaf6ff;--brand-blue-2:#d6efff;--gold:#c9a33a;--gold-mid:#b98e29;--gold-dark:#8f6b1f;--accent-dark:#255078}
 *{box-sizing:border-box}
-body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:0;color:#222;background:#fff}
-.main-header{background:#fff;border-bottom:1px solid #eee;padding:0 12px;position:fixed;top:0;left:0;width:100%;z-index:1000}
-.header-inner{max-width:var(--max-width);margin:0 auto;height:300px;display:flex;align-items:center;justify-content:center;overflow:hidden}
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:0;color:#222;background:linear-gradient(180deg,var(--brand-blue) 0%, rgba(201,163,58,0.06) 60%, rgba(201,163,58,0.12) 100%)}
+.main-header{background:#fff;border-bottom:3.75px solid var(--gold-mid);padding:0 12px;position:fixed;top:0;left:0;width:100%;z-index:1000}
+.header-inner{max-width:var(--max-width);margin:0 auto;height:300px;display:flex;align-items:center;justify-content:center;overflow:hidden;box-shadow:none}
 .header-image{display:block;width:auto;max-width:100%;max-height:300px;height:auto;margin:0 auto;object-fit:contain}
-.container{max-width:980px;margin:28px auto;padding:0 16px}
-h2,h3{color:#255078}
+.container{max-width:980px;margin:28px auto;padding:20px 16px;background:#fff;border-radius:6px}
+h2,h3{color:var(--accent-dark)}
 p{line-height:1.5;color:var(--muted)}
 code{background:#f3f3f3;padding:2px 6px;border-radius:4px}
-.site-footer{border-top:1px solid #eee;color:var(--muted);padding:12px 0;font-size:0.9rem}
+.site-footer{border-top:1px solid var(--brand-blue-2);color:var(--muted);padding:12px 0;font-size:0.9rem;background:transparent}
+
+/* Accent rules: subtle blue stripes and gold highlights */
+.container > div{padding:10px 12px;margin-bottom:12px;border-left:4px solid transparent;border-radius:4px}
+.container > div:nth-child(2n){background:rgba(234,246,255,0.6);border-left-color:var(--brand-blue-2)}
+.container > div strong{color:var(--accent-dark)}
+a{color:var(--accent-dark)}
+a:hover{color:#173e59;text-decoration:underline}
+
+.site-footer a{color:var(--accent-dark)}
 
 /* Add top padding to body so fixed header doesn't overlap content */
 body{padding-top:300px}

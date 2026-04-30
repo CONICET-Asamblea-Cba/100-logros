@@ -1,4 +1,6 @@
  
+ <img src="assets/img/100logros.png" alt="Tecnología" width="480" style="vertical-align:middle">
+
 <div>
 
   <div style="display: flex; align-items: start;">
