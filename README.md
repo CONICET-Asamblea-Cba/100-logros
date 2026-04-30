@@ -1,15 +1,10 @@
 
-<header class="site-header site-header--white">
-  <div class="site-header-inner">
-    <img src="assets/img/100logros_header.png" class="logo header-image" alt="100+ logros CONICET header">
-  </div>
-</header>
+<img src="assets/img/100logros.png" style="vertical-align:middle">
 
 <div>
 
-<div class="readme-content">
   <div style="display: flex; align-items: start;">
-    <img src="assets/img/tecnologia.png" class="category-icon" alt="Tecnología" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/wp-content/uploads/EBTs_ESP_PREVIEW.pdf">
+    <img src="assets/img/tecnologia.png" alt="Tecnología" width="32" style="vertical-align:middle"> <a href="https://www.conicet.gov.ar/wp-content/uploads/EBTs_ESP_PREVIEW.pdf">
 <strong>1. En los últimos años se han fundado más de 50 empresas de base tecnológica.</strong>
     </a>
   </div>
